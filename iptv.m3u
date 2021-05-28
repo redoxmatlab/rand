@@ -3,10 +3,6 @@
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="",Al Masirah Mubacher
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6njRt6c.png" group-title="",Al Mamlaka TV
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/aJ9fK46.png" group-title="",Al Taghier TV HD
@@ -45,7 +41,7 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 
 
-#EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-canada.xml.gz"
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="",Canada Star TV
@@ -113,7 +109,7 @@ http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",DTX
 http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
 
-XTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" group-title="",AR:AL Jazeera Arabic Live
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" group-title="",AR:AL Jazeera Arabic Live
 https://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-language="" tvg-logo="" group-title="",AR:AL Jazeera Mubashe
 https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
